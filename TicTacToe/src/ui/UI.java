@@ -12,7 +12,7 @@ public class UI {
     public static void printWelcome(Player player1, Player player2) {
 
         System.out.println(lineDecorator);
-        System.out.println("xoXOxo xoXOxo TicTacToeDaniel xoXOxo xoXOxo");
+        System.out.println("xoXOxo xoXOxo TicTacToe xoXOxo xoXOxo");
         System.out.println(lineDecorator);
 
         System.out.println();
