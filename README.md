@@ -1,2 +1,2 @@
-# POO2018-2
-Repositorio para almacenar trabajos, ejercicios y demás de la asignatura
+# POO2019
+Repositorio para almacenar actividades, ejercicios y demás de la asignatura
